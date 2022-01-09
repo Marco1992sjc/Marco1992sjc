@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+
+<img src="https://64.media.tumblr.com/c0dc89d0f3d362a05687b4283266ca59/tumblr_ox5gb50aew1qeyvpto1_500.gifv" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 
 
