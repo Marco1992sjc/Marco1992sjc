@@ -1,6 +1,59 @@
-Olá, me chamo Marco Aurélio e estou estudando sobre Reactjs e React Native, quero me aprofundar nesse mundo tão incrivel do desenvolvimento front-end.
-Estudo todos os dias e cada a dia aprendo um pouco sobre.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco1992sjc&theme=aura&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1992sjc)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=Marco1992sjc&color=006bed)
+
+<h3> :man: &nbsp;Sobre mim </h3>
+
+- 🤔 &nbsp; Explorando novas tecnologias, Estudando Mercado financeiro Day Trade e opções binárias.
+- 🎓 &nbsp; Estudando Sistemas para Internet na <a href="https://estacio.br/">Estácio</a>.
+- 💼 &nbsp; Trabalhando como Vigilante no <a href="https://gruposouzalima.com/"> Grupo Souza Lima</a>
+- 🌱 &nbsp; Aprendendo mais sobre Next.js, Python.
+
+<h3> :rocket: &nbsp;Minhas Skills </h3>
+
+**Aplicações e Dados**
+
+  
+
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+
+
+**DevOps**
+
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
+
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/Marco1992sjc">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco1992sjc&theme=aura&show_icons=true" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1992sjc&layout=compact&hide=innnosetup&theme=aura&show_icons=true)](https://github.com/marco1992sjc/github-readme-stats)
+
+<br/>
+
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+
+[![Linkedin: Marco Aurelio](https://img.shields.io/badge/-Marco-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-aur%C3%A9lio-de-moraes-oliveira-46b013206)](https://www.linkedin.com/in/marco-aur%C3%A9lio-de-moraes-oliveira-46b013206)
+[![Gmail Badge](https://img.shields.io/badge/-marco1992sjc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marco1992sjc@gmail.com)](mailto:marco1992sjc@gmail.com)
+[![GitHub: Marco Aurelio]( https://img.shields.io/github/followers/Marco1992sjc?label=follow&style=social)](https://github.com/Marco1992sjc)
+
+
+
+
