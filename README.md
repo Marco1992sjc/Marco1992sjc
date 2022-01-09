@@ -49,13 +49,12 @@
 
 
 ---
+
 <a href="https://github.com/Marco1992sjc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco1992sjc&theme=aura&show_icons=true" />
 </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1992sjc&layout=compact&hide=innnosetup&theme=aura&show_icons=true)](https://github.com/marco1992sjc/github-readme-stats)
-
-<br/>
 
 
 ---
