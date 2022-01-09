@@ -12,7 +12,7 @@
 - 🎓 &nbsp; Estudando Sistemas para Internet na <a href="https://estacio.br/">Estácio</a>.
 - 💼 &nbsp; Trabalhando como Vigilante no <a href="https://gruposouzalima.com/"> Grupo Souza Lima</a>
 - 🌱 &nbsp; Aprendendo mais sobre Next.js, Python.
-
+- :alien: &nbsp; Adoro Astronomia e o estudo sobre o Cosmos
 
 
 ---
