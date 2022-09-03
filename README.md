@@ -53,8 +53,9 @@
 ---
 
 <a href="https://github.com/Marco1992sjc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco1992sjc&theme=aura&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marco1992sjc&bg_color=30,0ff1ce,904e95&title_color=fff&text_color=fff" />
 </a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco1992sjc&layout=compact&hide=innnosetup&theme=aura&show_icons=true)](https://github.com/marco1992sjc/github-readme-stats)
 
